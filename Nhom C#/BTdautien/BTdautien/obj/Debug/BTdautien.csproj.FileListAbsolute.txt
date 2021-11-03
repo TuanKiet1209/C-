@@ -1,0 +1,12 @@
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\bin\Debug\BTdautien.exe.config
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\bin\Debug\BTdautien.exe
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\bin\Debug\BTdautien.pdb
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.csprojResolveAssemblyReference.cache
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.Formlogin.resources
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.Properties.Resources.resources
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.csproj.GenerateResource.Cache
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.exe
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.pdb
+c:\users\kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.Form_main.resources
+C:\Users\Kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.FormUser.resources
+C:\Users\Kiet\documents\visual studio 2013\Projects\BTdautien\BTdautien\obj\Debug\BTdautien.FormUserModifile.resources
