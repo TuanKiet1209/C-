@@ -1,0 +1,9 @@
+c:\users\kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\bin\Debug\Quaysomayman.exe.config
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\bin\Debug\Quaysomayman.exe
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\bin\Debug\Quaysomayman.pdb
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.csprojResolveAssemblyReference.cache
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.FrmQuaysomayman.resources
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.Properties.Resources.resources
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.csproj.GenerateResource.Cache
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.exe
+C:\Users\Kiet\documents\visual studio 2013\Projects\Quaysomayman\Quaysomayman\obj\Debug\Quaysomayman.pdb
